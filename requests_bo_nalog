@@ -1,0 +1,67 @@
+{
+  "requests": [
+
+
+{
+
+      "endpoint": "https://bo.nalog.ru/advanced-search/organizations/?allFieldsMatch=false&period=2020&page=0",
+
+      "method": "GET",
+
+
+      "repeat_count": 1
+
+    }
+
+  ],
+ "delay": 2.0,
+  "proxy": [
+    "socks5://8tda6d:ymV9k5@146.19.234.164:8000",
+"socks5://8tda6d:ymV9k5@146.19.234.218:8000",
+"socks5://8tda6d:ymV9k5@194.26.207.229:8000",
+"socks5://8tda6d:ymV9k5@45.148.247.241:8000",
+"socks5://8tda6d:ymV9k5@91.195.125.14:8000",
+"socks5://nv9Fe2:qWydpf@45.129.171.48:8000",
+"socks5://nv9Fe2:qWydpf@45.129.171.246:8000",
+"socks5://nv9Fe2:qWydpf@45.145.160.121:8000",
+"socks5://nv9Fe2:qWydpf@45.145.160.253:8000",
+"socks5://nv9Fe2:qWydpf@212.102.151.137:8000",
+"socks5://GVh0KA:6R41TY@147.45.56.32:8000",
+"socks5://GVh0KA:6R41TY@147.45.56.117:8000",
+"socks5://GVh0KA:6R41TY@147.45.58.147:8000",
+"socks5://GVh0KA:6R41TY@147.45.58.225:8000",
+"socks5://GVh0KA:6R41TY@147.45.57.52:8000",
+"socks5://ZkqgrD:qaZ7gS@193.124.177.245:9297",
+"socks5://ZkqgrD:qaZ7gS@193.124.178.185:9513",
+"socks5://ZkqgrD:qaZ7gS@193.124.179.125:9351",
+"socks5://ZkqgrD:qaZ7gS@193.124.176.164:9780",
+"socks5://ZkqgrD:qaZ7gS@193.124.176.194:9407",
+"socks5://ZkqgrD:qaZ7gS@193.124.178.114:9683",
+"socks5://ZkqgrD:qaZ7gS@194.67.197.207:9664",
+"socks5://ZkqgrD:qaZ7gS@193.124.177.156:9148",
+"socks5://ZkqgrD:qaZ7gS@193.124.178.63:9562",
+"socks5://ZkqgrD:qaZ7gS@194.67.198.106:9961",
+"socks5://ZkqgrD:qaZ7gS@193.124.177.157:9396",
+"socks5://ZkqgrD:qaZ7gS@193.124.176.119:9239",
+"socks5://ZkqgrD:qaZ7gS@193.124.176.244:9471",
+"socks5://ZkqgrD:qaZ7gS@194.67.197.210:9465",
+"socks5://ZkqgrD:qaZ7gS@193.124.179.53:9177",
+"socks5://ZkqgrD:qaZ7gS@193.124.177.189:9860",
+"socks5://ZkqgrD:qaZ7gS@193.124.177.251:9451",
+"socks5://ZkqgrD:qaZ7gS@194.67.197.29:9193",
+"socks5://ZkqgrD:qaZ7gS@193.124.177.168:9714",
+"socks5://ZkqgrD:qaZ7gS@193.124.178.154:9904",
+"socks5://ZkqgrD:qaZ7gS@194.67.197.143:9347",
+"socks5://ZkqgrD:qaZ7gS@193.124.177.235:9733",
+"socks5://ZkqgrD:qaZ7gS@193.124.176.8:9044",
+"socks5://ZkqgrD:qaZ7gS@193.124.178.97:9644",
+"socks5://ZkqgrD:qaZ7gS@194.67.197.141:9368",
+"socks5://ZkqgrD:qaZ7gS@193.124.179.197:9787",
+"socks5://ZkqgrD:qaZ7gS@193.124.176.139:9037",
+"socks5://ZkqgrD:qaZ7gS@193.124.178.43:9066",
+"socks5://ZkqgrD:qaZ7gS@193.124.178.103:9847",
+"socks5://ZkqgrD:qaZ7gS@194.67.199.217:9495"
+
+  ],
+  "pipeline_name": "rocket_bo.nalog.ru"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://www.fips.ru",
+
+"requests": [
+
+
+{
+
+      "endpoint": "https://www.fips.ru/registers-doc-view/fips_servlet?DB=RUPAT&rn=7167&DocNumber=2823558&TypeFile=html",
+
+      "method": "GET",
+
+
+      "repeat_count": 1
+
+    }
+
+  ],
+ "delay": 2.0,
+  "proxy": [
+    "socks5://8tda6d:ymV9k5@146.19.234.164:8000",
+"socks5://8tda6d:ymV9k5@146.19.234.218:8000",
+"socks5://8tda6d:ymV9k5@194.26.207.229:8000",
+"socks5://8tda6d:ymV9k5@45.148.247.241:8000",
+"socks5://8tda6d:ymV9k5@91.195.125.14:8000",
+"socks5://nv9Fe2:qWydpf@45.129.171.48:8000",
+"socks5://nv9Fe2:qWydpf@45.129.171.246:8000",
+"socks5://nv9Fe2:qWydpf@45.145.160.121:8000",
+"socks5://nv9Fe2:qWydpf@45.145.160.253:8000",
+"socks5://nv9Fe2:qWydpf@212.102.151.137:8000",
+"socks5://GVh0KA:6R41TY@147.45.56.32:8000",
+"socks5://GVh0KA:6R41TY@147.45.56.117:8000",
+"socks5://GVh0KA:6R41TY@147.45.58.147:8000",
+"socks5://GVh0KA:6R41TY@147.45.58.225:8000",
+"socks5://GVh0KA:6R41TY@147.45.57.52:8000"
+
+  ],
+  "pipeline_name": "rospatent"
+}
